@@ -1,2 +1,4 @@
-prepared_datasets/
-raw_datasets/
+prepared_datasets/*
+raw_datasets/*
+!prepared_datasets/final_test.csv
+!prepared_datasets/final_train.csv
